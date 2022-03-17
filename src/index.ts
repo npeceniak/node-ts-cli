@@ -1,3 +1,1 @@
-var this = something;
-
-console.log("THis")
+console.log("log");
